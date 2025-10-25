@@ -1,6 +1,6 @@
 # LangChain Translator & Summarizer
 
-A simple yet powerful command-line tool built with [LangChain](https://www.langchain.com/) and Groq's LLaMA 3.1 model. Translate English text into any language and (optionally) summarise long passages using state-of-the-art LLMs.
+A simple yet powerful command-line tool built with [LangChain](https://www.langchain.com/) and Groq's LLaMA 3.1 model. Translate English text into any language and a second separate program to summarise long passages made using similar concepts as the language translator.
 
 ---
 
